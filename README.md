@@ -15,3 +15,4 @@ Devo acrescentar mais 3 atributos para o produto e quantidade inicial deve ser 0
  - Ponte (Fixa, Flutuante, Semi Flutuante)
  - Cor e Acabamento
 
+Fazer o vídeo de 1 minuto para 3-4 guitarras
