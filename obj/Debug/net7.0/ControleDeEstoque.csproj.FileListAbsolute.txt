@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/ControleDeEstoque/bin/Debug/net7.0/ControleDeEstoque
+/home/brenoacioli/Documents/ControleDeEstoque/bin/Debug/net7.0/ControleDeEstoque.deps.json
+/home/brenoacioli/Documents/ControleDeEstoque/bin/Debug/net7.0/ControleDeEstoque.runtimeconfig.json
+/home/brenoacioli/Documents/ControleDeEstoque/bin/Debug/net7.0/ControleDeEstoque.dll
+/home/brenoacioli/Documents/ControleDeEstoque/bin/Debug/net7.0/ControleDeEstoque.pdb
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.csproj.AssemblyReference.cache
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.AssemblyInfo.cs
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.dll
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/refint/ControleDeEstoque.dll
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.pdb
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ControleDeEstoque.genruntimeconfig.cache
+/home/brenoacioli/Documents/ControleDeEstoque/obj/Debug/net7.0/ref/ControleDeEstoque.dll
