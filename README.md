@@ -13,4 +13,5 @@ Devo acrescentar mais 3 atributos para o produto e quantidade inicial deve ser 0
  - Corpo (Les Paul, Strato, Super Strato, Tele, Semi Hollow, etc)
  - Captadores (HH, HSS, SSS, etc)
  - Ponte (Fixa, Flutuante, Semi Flutuante)
- - Tipo de Pintura, Cor e Acabamento
+ - Cor e Acabamento
+
