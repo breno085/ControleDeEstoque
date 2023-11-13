@@ -29,7 +29,7 @@ for (int i = 0; i < maxGuitarras; i++)
 do
 {
 Console.WriteLine("Controle de Estoque - Instrumentos Musicais - Guitarras\n");
-Console.WriteLine("[1] - Novo\n[2] - Listar Produtos\n[3] - Remover Produtos\n[4] - Entrada de Estoqu\n[5] - Saída de Estoque\n[0] - Sair");
+Console.WriteLine("[1] - Novo\n[2] - Listar Produtos\n[3] - Remover Produtos\n[4] - Entrada de Estoque\n[5] - Saída de Estoque\n[0] - Sair");
 
 readResult = Console.ReadLine();
 
@@ -138,7 +138,7 @@ void ListarProdutos()
 
     for (int i = 0; i < guitarraCount; i++)
     {
-        Console.WriteLine($"{i + 1}. Guitarra {guitarras[i, 0]} {guitarras[i, 1]} - {guitarras[i, 4]} - {guitarras[i, 5]} - {guitarras[i, 6]} R$ {guitarras[i, 2]}) - {guitarras[i, 7]} em estoque");
+        Console.WriteLine($"{i + 1}. Guitarra {guitarras[i, 0]} {guitarras[i, 1]} - {guitarras[i, 4]} - {guitarras[i, 5]} - {guitarras[i, 6]} - R$ {guitarras[i, 2]} - {guitarras[i, 7]} em estoque");
     }
 }
 
